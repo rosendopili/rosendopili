@@ -1,24 +1,93 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+# Hi there, I'm Rosendo Pili 👋
 
-## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+<div align="center">
+  
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-63-brightgreen?style=for-the-badge&logo=github)](https://github.com/rosendopili)
+[![Followers](https://img.shields.io/github/followers/rosendopili?label=Followers&style=for-the-badge&logo=github)](https://github.com/rosendopili)
+[![Location](https://img.shields.io/badge/Location-New%20York%20City-blue?style=for-the-badge&logo=googlemaps)](https://github.com/rosendopili)
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+</div>
 
-## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+## 👨‍💼 About Me
 
-## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+I'm a **Sr. Manager, Customer Implementation and Success** at [Major League Hacking](https://mlh.io), where I empower developers and help build amazing hackathon projects. With a background in software engineering and developer education, I'm passionate about creating opportunities for hackers to learn and grow.
+
+- 🏙️ Based in **New York City**
+- 🎓 **CUNY John Jay College** - Criminal Justice
+- � Coding since **2019**
+- � Former **Software Engineer / Lead Instructor** at Nebula Academy
+- 📱 Former **Mobility Engineer** at Ogilvy & Mather
+
+## 🛠️ Tech Stack
+
+```javascript
+const skills = {
+  languages: ["JavaScript", "TypeScript", "Python", "HTML/CSS"],
+  frameworks: ["React", "Node.js", "Express"],
+  focus: ["Web Development", "API Design", "Developer Education"],
+  interests: ["Hackathons", "Community Building", "Learning New Technologies"]
+};
+```
+
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎲 API Project</h3>
+      <div align="center">
+        <a href="https://github.com/rosendopili/api-project" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-View-blue?style=for-the-badge&logo=github" alt="View Repo"/>
+        </a>
+        <p><strong>JavaScript</strong> - Awesome API project exploring GitHub workflows</p>
+        <p>⭐ Stars: 3</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">💬 Chat Application</h3>
+      <div align="center">
+        <a href="https://github.com/rosendopili/Chat-Application" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-View-blue?style=for-the-badge&logo=github" alt="View Repo"/>
+        </a>
+        <p><strong>JavaScript</strong> - Real-time chat using React and WebSocket</p>
+        <p>⭐ Stars: 2</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 GHW Data Week App</h3>
+      <div align="center">
+        <a href="https://github.com/rosendopili/ghwdataweek-test-app" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-View-blue?style=for-the-badge&logo=github" alt="View Repo"/>
+        </a>
+        <p><strong>TypeScript</strong> - Cool application built with Google AI Studio</p>
+        <p>⭐ Stars: 1</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 More Projects</h3>
+      <div align="center">
+        <a href="https://github.com/rosendopili?tab=repositories" target="_blank">
+          <img src="https://img.shields.io/badge/View%20All-63%20Repos-brightgreen?style=for-the-badge&logo=github" alt="View All"/>
+        </a>
+        <p>Check out my other 60+ repositories!</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+## 📫 Let's Connect
+
+Feel free to reach out if you want to collaborate on projects, discuss hackathons, or just chat about tech!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-rosendopili-181717?style=for-the-badge&logo=github)](https://github.com/rosendopili)
+
+</div>
+
+
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
