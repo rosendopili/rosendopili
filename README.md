@@ -1,23 +1,23 @@
 <!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Public Repositories](https://img.shields.io/badge/Public%20Repositories-73-brightgreen?style=flat-square)](https://github.com/rosendopili?tab=repositories)
+[![Followers](https://img.shields.io/badge/Followers-38-blue?style=flat-square)](https://github.com/rosendopili)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I'm Rosendo Pili. I'm a Sr. Mgr, Customer Implementation and Success at Major League Hacking. I work on customer implementation, success, developer education, and hackathon programs.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: New York City
+- 🎓 Education: Criminal Justice, The City University of New York John Jay College of Criminal Justice
+- 📅 Hacking Since: 2019
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🎲 [Live-Draft-App](https://github.com/rosendopili/Live-Draft-App) — Fantasy football draft assistant for live drafts. (TypeScript)
+- 🛠️ [Prompt-Lab](https://github.com/rosendopili/Prompt-Lab) — An application that randomly generates image prompts. (TypeScript)
+- 🤖 [Solana-Voting-App](https://github.com/rosendopili/Solana-Voting-App) — Vote for your favorite AI provider. (TypeScript)
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
+- 🧰 Languages: TypeScript, JavaScript, Shell
+- 🔭 Focus: Customer implementation, developer education, and hackathon programs
+- ❤️ Interests: Hackathons, AI applications, and learning
 -->
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
