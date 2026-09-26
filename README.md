@@ -1,4 +1,4 @@
-<!-- Template:
+
 [![Public Repositories](https://img.shields.io/badge/Public%20Repositories-73-brightgreen?style=flat-square)](https://github.com/rosendopili?tab=repositories)
 [![Followers](https://img.shields.io/badge/Followers-38-blue?style=flat-square)](https://github.com/rosendopili)
 
@@ -18,7 +18,6 @@
 - 🧰 Languages: TypeScript, JavaScript, Shell
 - 🔭 Focus: Customer implementation, developer education, and hackathon programs
 - ❤️ Interests: Hackathons, AI applications, and learning
--->
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
