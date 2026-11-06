@@ -1,24 +1,36 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+# Rosendo Pili
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+👋 Hey, I’m **Rosendo Pili**. My career has taken me from mobility engineering and software instruction to customer success at Major League Hacking.
+
+- 📍 Location: New York City
+- 🎓 I studied Criminal Justice at John Jay College of Criminal Justice, CUNY.
+- 💼 At Major League Hacking, I’ve worked in customer success and, since 2024, as Senior Manager of Customer Implementation and Success. Before that, I was a Software Engineer and Lead Instructor at Nebula Academy, and a Mobility Engineer at Ogilvy & Mather.
+- 🐙 Find me on [GitHub](https://github.com/rosendopili) — I’ve been there since 2019.
+
+## A Few Numbers
+
+| 🎟️ MLH events attended | 📦 GitHub repositories |
+|:---:|:---:|
+| **88** | **75 total** |
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+
+- 🏈 [Live Draft App](https://github.com/rosendopili/Live-Draft-App) — a fantasy football draft assistant for live drafts. (TypeScript)
+- 🎨 [Prompt Lab](https://github.com/rosendopili/Prompt-Lab) — generates prompts for image-making. (TypeScript)
+- 🗳️ [Solana Voting App](https://github.com/rosendopili/Solana-Voting-App) — lets you vote for your favorite AI provider. (TypeScript)
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+
+- 🧰 Languages I’ve been building with: TypeScript, JavaScript, and Python
+- ❤️ I’m always curious and enjoy learning new things.
+
+## Social
+
+- [GitHub](https://github.com/rosendopili)
+- [DEV](https://dev.to/rosendo_pili)
+- @rosendo_from_mlh
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
